@@ -1,0 +1,2 @@
+此部分数据和代码对应Table S6-7,Figure 4-5和Figure S4-8(除Figure S6c-f)
+图片和表格中的菌种（species）名称已根据ncbi的官方名称进行调整，会和代码生成的结果有细微差异
